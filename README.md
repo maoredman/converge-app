@@ -1,6 +1,6 @@
 # Converge app
 
-[Demo available here](https://maoredman.gitub.io/converge-app)
+[Demo available here](https://maoredman.github.io/converge-app)
 
 ### Description
 A web app for filtering objects ("FulfillMe"s) with selected criteria.
